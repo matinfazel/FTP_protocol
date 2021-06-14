@@ -1,2 +1,2 @@
 # FTP_protocol
-server client application
+server client application using python
